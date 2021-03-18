@@ -194,7 +194,7 @@ var Definitions = React.createClass({
 var Goban = React.createClass({
     getDefaultProps: function() {
 	return {
-	    size: "19",
+	    size: "13",
 	    theme: "classic"
 	};
     },
