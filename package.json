@@ -29,7 +29,7 @@
   "dependencies": {
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
-    "svgoban": "https://github.com/psychopathh/svgoban.git#1.4.0"
+    "svgoban": "https://github.com/psychopathh/svgoban.git#1.4.1"
   },
   "devDependencies": {
     "babel": "^6.5.2",
