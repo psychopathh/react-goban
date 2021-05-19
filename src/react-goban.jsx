@@ -288,11 +288,11 @@ var Definitions = React.createClass({
         _extends({ id: "blackgrad" }, b.gradient),
         React.createElement("stop", {
           offset: "0%",
-          style: { "stop-color": b.a, "stop-opacity": "1" },
+          style: { "stopColor": b.a, "stopOpacity": "1" },
         }),
         React.createElement("stop", {
           offset: "100%",
-          style: { "stop-color": b.z, "stop-opacity": "1" },
+          style: { "stopColor": b.z, "stopOpacity": "1" },
         })
       ),
       React.createElement(
@@ -300,11 +300,11 @@ var Definitions = React.createClass({
         _extends({ id: "whitegrad" }, w.gradient),
         React.createElement("stop", {
           offset: "0%",
-          style: { "stop-color": w.a, "stop-opacity": "1" },
+          style: { "stopColor": w.a, "stopOpacity": "1" },
         }),
         React.createElement("stop", {
           offset: "100%",
-          style: { "stop-color": w.z, "stop-opacity": "1" },
+          style: { "stopColor": w.z, "stopOpacity": "1" },
         })
       ),
       React.createElement(
@@ -312,11 +312,11 @@ var Definitions = React.createClass({
         _extends({ id: "redgrad" }, x.gradient),
         React.createElement("stop", {
           offset: "0%",
-          style: { "stop-color": x.a, "stop-opacity": "1" },
+          style: { "stopColor": x.a, "stopOpacity": "1" },
         }),
         React.createElement("stop", {
           offset: "100%",
-          style: { "stop-color": x.z, "stop-opacity": "1" },
+          style: { "stopColor": x.z, "stopOpacity": "1" },
         })
       ),
       React.createElement(
@@ -324,11 +324,11 @@ var Definitions = React.createClass({
         _extends({ id: "greengrad" }, g.gradient),
         React.createElement("stop", {
           offset: "0%",
-          style: { "stop-color": g.a, "stop-opacity": "1" },
+          style: { "stopColor": g.a, "stopOpacity": "1" },
         }),
         React.createElement("stop", {
           offset: "100%",
-          style: { "stop-color": g.z, "stop-opacity": "1" },
+          style: { "stopColor": g.z, "stopOpacity": "1" },
         })
       ),
       React.createElement(
@@ -336,11 +336,11 @@ var Definitions = React.createClass({
         _extends({ id: "bluegrad" }, bl.gradient),
         React.createElement("stop", {
           offset: "0%",
-          style: { "stop-color": bl.a, "stop-opacity": "1" },
+          style: { "stopColor": bl.a, "stopOpacity": "1" },
         }),
         React.createElement("stop", {
           offset: "100%",
-          style: { "stop-color": bl.z, "stop-opacity": "1" },
+          style: { "stopColor": bl.z, "stopOpacity": "1" },
         })
       ),
     );
